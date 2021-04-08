@@ -1,5 +1,5 @@
 # Toyosu-Market_Tokyo
-東京都江東区の豊洲市場、東京都中央卸売市場豊洲市場
+東京都江東区の豊洲市場、東京都中央卸売市場豊洲市場とその周辺など
 
 ![Toyosu-Market_Tokyo_001](https://user-images.githubusercontent.com/20723919/113949720-db595a00-984a-11eb-8598-44deeb1275be.jpg)
 
